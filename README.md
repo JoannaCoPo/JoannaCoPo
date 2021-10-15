@@ -1,15 +1,19 @@
 ### Welcome! :sparkles:  
+I'm Jo (she/her). Software Engineer by way of:
+ - Public Health   :syringe:
+ - Linguistics  :brain:
+ - Language Immersion Theory in public education :notebook: :speaking_head:
+  
 Can I interest you in a virtual coffee chat? :coffee: :tea: :beers: :wine_glass:   
 Feel free to reach out!   
 [LinkedIn](https://www.linkedin.com/in/joanna-cortes-pomeo-6b1a3aba/), [Slack](https://turingschool.slack.com/team/UPKJPRJBS), jococopo@gmail.com 
 
-</br>
+<hr />
     
 ![Jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoannaCoPo&hide=stars&show_icons=true&theme=merko)
 
 
-## SKILLS
-### LANGUAGES
+#### LANGUAGES
 <p>
   <img src="https://img.shields.io/badge/ruby%20-D14836.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20-7119C2.svg?style=for-the-badge&logo=SQL&logoColor=white" />
@@ -18,7 +22,7 @@ Feel free to reach out!
   <img src="https://img.shields.io/badge/css3%20-25D366.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### FRAMEWORKS
+#### FRAMEWORKS
 <p>
   <img src="https://img.shields.io/badge/Ruby%20on%20Rails-D14836.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white" />
 </p>
@@ -40,7 +44,7 @@ Feel free to reach out!
   <img src="https://img.shields.io/badge/Atom-201E84.svg?&style=for-the-badge&logo=atom&logoColor=white" />                                                                                                        
 </p>
 
-### PROCESSES
+#### PROCESSES
 <p>
   <img src="https://img.shields.io/badge/OOP%20-201E84.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
   <img src="https://img.shields.io/badge/TDD%20-2A42D0.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
