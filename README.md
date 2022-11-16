@@ -3,8 +3,7 @@ I'm Jo (she/her). Software Engineer by way of:
  - Public Health   :syringe:
  - Linguistics  :brain:
  - Language Immersion Theory in public education :notebook: :speaking_head:
-  
-Can I interest you in a virtual coffee chat? :coffee: :tea: :beers: :wine_glass:   
+   
 Feel free to reach out!   
 [LinkedIn](https://www.linkedin.com/in/joanna-cortes-pomeo-6b1a3aba/), [Slack](https://turingschool.slack.com/team/UPKJPRJBS), jococopo@gmail.com 
 
