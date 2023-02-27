@@ -17,7 +17,7 @@ Feel free to reach out!
   <img src="https://img.shields.io/badge/ruby%20-D14836.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL%20-7119C2.svg?style=for-the-badge&logo=SQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/ActiveRecord%20-201E84.svg?&style=for-the badge&logo=ActiveRecord&logoColor=white" />
+  <img src="https://img.shields.io/badge/ActiveRecord%20-201E84.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
   <img src="https://img.shields.io/badge/html5%20-2A42D0.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3%20-25D366.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
