@@ -15,8 +15,9 @@ Feel free to reach out!
 #### LANGUAGES
 <p>
   <img src="https://img.shields.io/badge/ruby%20-D14836.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL%20-7119C2.svg?style=for-the-badge&logo=SQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/ActiveRecord%20-201E84.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
+  <img src="https://img.shields.io/badge/ActiveRecord%20-201E84.svg?&style=for-the badge&logo=ActiveRecord&logoColor=white" />
   <img src="https://img.shields.io/badge/html5%20-2A42D0.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3%20-25D366.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -24,6 +25,7 @@ Feel free to reach out!
 #### FRAMEWORKS
 <p>
   <img src="https://img.shields.io/badge/Ruby%20on%20Rails-D14836.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white" />
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### TOOLS 
