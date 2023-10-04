@@ -8,9 +8,6 @@ Feel free to reach out!
 [LinkedIn](https://www.linkedin.com/in/joanna-cortes-pomeo-6b1a3aba/), [Slack](https://turingschool.slack.com/team/UPKJPRJBS), jococopo@gmail.com 
 
 <hr />
-    
-![Jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoannaCoPo&hide=stars&show_icons=true&theme=merko)
-
 
 #### LANGUAGES
 <p>
